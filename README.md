@@ -108,8 +108,7 @@ El proyecto está organizado en **7 funciones**:
 
 ```
 📦 Proyecto-Sea-of-code
- ┣ 📓 BattleShip.ipynb      # Notebook principal con el código completo
- ┣ 📄 Sea_of_code.pdf       # Informe del proyecto (análisis, diseño, pruebas)
+ ┣ 📓 Sea_of_code.ipynb      # Notebook principal con el código completo
  ┗ 📄 README.md             # Este archivo
 ```
 
