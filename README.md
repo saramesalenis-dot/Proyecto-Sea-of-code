@@ -119,7 +119,7 @@ El proyecto está organizado en **7 funciones**:
 | Nombre | GitHub |
 |--------|--------|
 | Nicolás Armero Rosero | [@Nico08ben](https://github.com/Nico08ben) |
-| Sara Mesa Lenis | [@saramesal](https://github.com/saramesal)|
+| Sara Mesa Lenis | [@saramesalenis-dot](https://github.com/saramesalenis-dot)|
 | Karen Juliana Dueñas Castro | [@karen11439](https://github.com/karen11439) |
 | Santiago Garcia | [@Sant1833](https://github.com/Sant1833) |
 
